@@ -1,3 +1,3 @@
 # Exercism Language Tracks
 
-This repository manages all my learnings on the https://exercism.org/tracks platform
+This repository manages all my learnings on the [Exercism](https://exercism.org/tracks) platform.
